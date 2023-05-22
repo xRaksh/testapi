@@ -1,0 +1,184 @@
+[
+    {
+        "id": "1",
+        "category": "men",
+        "name": "GIVENCHY PARIS",
+        "Image": "https://images.unsplash.com/photo-1505632958218-4f23394784a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "Description": "Made for comfort and style, this versatile t-shirt combines soft fabric with a timeless design, perfect for effortlessly elevating your everyday look.",
+        "price": "450",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "2",
+        "category": "women",
+        "name": "WHITE RALPH",
+        "Image": "https://images.unsplash.com/photo-1622445270936-5dcb604970e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "Description": "Made for comfort and style, this versatile t-shirt combines soft fabric with a timeless design, perfect for effortlessly elevating your everyday look.",
+        "price": "500",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "3",
+        "category": "women",
+        "name": "Pink Cotton Straight Kurta",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/r/n/u/xl-gw104-glowworld-original-imagpnhmsjhmu5mw.jpeg?q=70",
+        "Description": "Elegant and graceful, this women's kurta showcases intricate embroidery and delicate detailing, exuding a touch of traditional charm fused with contemporary style.",
+        "price": "700",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "4",
+        "category": "Kids",
+        "name": "(Black) Baby Boys & Girls Casual T-shirt Pant",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-apparel-combo/i/w/j/1-2-years-mom-dad-adonyx-original-imagkv2emzpehygb.jpeg?q=70",
+        "Description": "Adorable and irresistibly cute, these baby clothes are designed with soft and gentle fabrics to keep your little one cozy and comfortable throughout the day.",
+        "price": "480",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "5",
+        "category": "jewellery",
+        "name": "Alloy Rhodium Silver Jewel Set ",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/kqco5u80/jewellery-set/g/c/h/780-r-a-enterprises-original-imag4dyzceaqhkhp.jpeg?q=70",
+        "Description": "Radiating elegance and sophistication, this exquisite jewelry set features intricately designed pieces that effortlessly enhance your ensemble, adding a touch of glamour to any occasion.",
+        "price": "7999",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "6",
+        "category": "men",
+        "name": "Men Regular Fit Striped Mandarin Collar Casual Shirt",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/x/m/x/l-shirt-bikit-1-bluecorp-enterprise-original-imaghhu96wws9crz.jpeg?q=70",
+        "Description": "Made for comfort and style, this versatile t-shirt combines soft fabric with a timeless design, perfect for effortlessly elevating your everyday look.",
+        "price": "499",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "7",
+        "category": "men",
+        "name": "Men Slim Fit White Lycra Blend Trousers",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/2/c/o/34-trouser-solid-01-gaumukhi-creation-original-imaghbxywzdycrva.jpeg?q=70",
+        "Description": "Versatile and comfortable, these pants are a wardrobe essential that seamlessly combines style and functionality for everyday wear",
+        "price": "480",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "8",
+        "category": "women",
+        "name": "Women Regular Fit Black Cotton Blend Trousers",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/d/w/28-trouser-50-lee-tex-original-imaghkgdvuyrszba.jpeg?q=70",
+        "Description": "Versatile and comfortable, these pants are a wardrobe essential that seamlessly combines style and functionality for everyday wear",
+        "price": "359",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "9",
+        "category": "women",
+        "name": "Casual Regular Sleeves Solid Women Purple Top",
+        "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/top/4/m/y/m-mi01-sonic-fashion-original-imagkmawtzsj8jat.jpeg?q=70",
+        "Description": "Elegant and graceful, this women's Top showcases intricate embroidery and delicate detailing, exuding a touch of traditional charm fused with contemporary style.",
+        "price": "399",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "10",
+        "category": "beauty",
+        "name": "MAYBELLINE NEW YORK Colossal Kajal, Pack of 2, Waterproof, Long Stay, Deep Black  (Black, 0.7 g)",
+        "Image": "https://rukminim1.flixcart.com/image/416/416/xif0q/kajal/f/a/l/-original-imagp6gbhtgfx8fk.jpeg?q=70",
+        "Description": "Unlock your beauty potential with these high-quality beauty products that nourish, enhance, and transform your skin, leaving it radiant and glowing.",
+        "price": "349",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "11",
+        "category": "kids",
+        "name": "skivila Baby Kajal Black For Newborn - 100% Natural & Organic Kajal- 8g.  (Black, 8 g)",
+        "Image": "https://rukminim1.flixcart.com/image/416/416/l251xu80/kajal/g/t/b/8-baby-kajal-black-for-newborn-100-natural-organic-kajal-8g-original-imagdjyvqrn83svf.jpeg?q=70",
+        "Description": "Unlock your beauty potential with these high-quality beauty products that nourish, enhance, and transform your skin, leaving it radiant and glowing.",
+        "price": "300",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "12",
+        "category": "beauty",
+        "name": "NYN Professional Makeup Kit (80133B)  (Pack of 28)",
+        "Image": "https://rukminim1.flixcart.com/image/416/416/xif0q/makeup-kit/1/w/0/-original-imagzch9vmbyur27.jpeg?q=70",
+        "Description": "Unlock your beauty potential with these high-quality beauty products that nourish, enhance, and transform your skin, leaving it radiant and glowing.",
+        "price": "199",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+    {
+        "id": "13",
+        "category": "beauty",
+        "name": "Brass Gold-plated Gold Jewel Set  (Pack of 1)",
+        "Image": "https://rukminim1.flixcart.com/image/416/416/xif0q/makeup-kit/1/w/0/-original-imagzch9vmbyur27.jpeg?q=70",
+        "Description": "Radiating elegance and sophistication, this exquisite jewelry set features intricately designed pieces that effortlessly enhance your ensemble, adding a touch of glamour to any occasion.",
+        "price": "289",
+        "Suggested": "false",
+        "Sponsor": "false",
+        "Recommed": "false",
+        "Top": "false",
+        "best": "false"
+
+    },
+]

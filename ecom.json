@@ -90,7 +90,7 @@
         "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/d/w/28-trouser-50-lee-tex-original-imaghkgdvuyrszba.jpeg?q=70",
         "Description": "Versatile and comfortable, these pants are a wardrobe essential that seamlessly combines style and functionality for everyday wear",
         "price": "359",
-        "Suggested": "ture",
+        "Suggested": "true",
         "Sponsor": "false",
         "Recommed": "false",
         "Top": "false"
@@ -177,7 +177,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "true"
+        "Top": "ture"
     },
     {
         "id": 32,
@@ -189,7 +189,7 @@
         "Suggested": "false",
         "Sponsor": "true",
         "Recommed": "false",
-        "Top": "true"
+        "Top": "ture"
     },
     {
         "id": 15,
@@ -357,7 +357,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "true"
+        "Top": "ture"
     },
     {
         "id": 27,
@@ -441,7 +441,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "true"
+        "Top": "ture"
     },
     {
         "id": 38,

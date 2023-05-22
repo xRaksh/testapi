@@ -104,7 +104,7 @@
         "price": "399",
         "Suggested": "false",
         "Sponsor": "false",
-        "Recommed": "ture",
+        "Recommed": "true",
         "Top": "false"
     },
     {
@@ -126,7 +126,7 @@
         "Image": "https://rukminim1.flixcart.com/image/416/416/l251xu80/kajal/g/t/b/8-baby-kajal-black-for-newborn-100-natural-organic-kajal-8g-original-imagdjyvqrn83svf.jpeg?q=70",
         "Description": "Unlock your beauty potential with these high-quality beauty products that nourish, enhance, and transform your skin, leaving it radiant and glowing.",
         "price": "300",
-        "Suggested": "ture",
+        "Suggested": "true",
         "Sponsor": "false",
         "Recommed": "false",
         "Top": "false"
@@ -139,7 +139,7 @@
         "Description": "Unlock your beauty potential with these high-quality beauty products that nourish, enhance, and transform your skin, leaving it radiant and glowing.",
         "price": "199",
         "Suggested": "false",
-        "Sponsor": "ture",
+        "Sponsor": "true",
         "Recommed": "false",
         "Top": "false"
     },
@@ -177,7 +177,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "ture"
+        "Top": "true"
     },
     {
         "id": 32,
@@ -187,9 +187,9 @@
         "Description": "Experience cutting-edge technology at your fingertips with these mobile products, offering seamless connectivity, powerful performance, and innovative features for a truly immersive digital experience.",
         "price": "61990",
         "Suggested": "false",
-        "Sponsor": "ture",
+        "Sponsor": "true",
         "Recommed": "false",
-        "Top": "ture"
+        "Top": "true"
     },
     {
         "id": 15,
@@ -246,7 +246,7 @@
         "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/n/m/l/no-2-25-m-unstitched-na-02-duniya-original-imagh573zzvyrmqp.jpeg?q=70",
         "Description": "Sharp and stylish, these men's clothes exude a confident and modern flair, with impeccable tailoring and attention to detail for a polished look",
         "price": "555",
-        "Suggested": "ture",
+        "Suggested": "true",
         "Sponsor": "false",
         "Recommed": "false",
         "Top": "false"
@@ -272,7 +272,7 @@
         "price": "499",
         "Suggested": "false",
         "Sponsor": "false",
-        "Recommed": "ture",
+        "Recommed": "true",
         "Top": "false"
     },
     {
@@ -295,7 +295,7 @@
         "Description": "Radiating elegance and sophistication, this exquisite jewelry set features intricately designed pieces that effortlessly enhance your ensemble, adding a touch of glamour to any occasion.",
         "price": "436",
         "Suggested": "false",
-        "Sponsor": "ture",
+        "Sponsor": "true",
         "Recommed": "false",
         "Top": "false"
     },
@@ -319,7 +319,7 @@
         "Description": "Embrace the future of technology with these electronic products, delivering unparalleled performance and convenience for all your digital needs.",
         "price": "27990",
         "Suggested": "false",
-        "Sponsor": "ture",
+        "Sponsor": "true",
         "Recommed": "false",
         "Top": "false"
     },
@@ -357,7 +357,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "ture"
+        "Top": "true"
     },
     {
         "id": 27,
@@ -368,7 +368,7 @@
         "price": "509",
         "Suggested": "false",
         "Sponsor": "false",
-        "Recommed": "ture",
+        "Recommed": "true",
         "Top": "false"
     },
     {
@@ -380,7 +380,7 @@
         "price": "6990",
         "Suggested": "false",
         "Sponsor": "false",
-        "Recommed": "ture",
+        "Recommed": "true",
         "Top": "false"
     },
     {
@@ -390,7 +390,7 @@
         "Image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70",
         "Description": "Experience cutting-edge technology at your fingertips with these mobile products, offering seamless connectivity, powerful performance, and innovative features for a truly immersive digital experience.",
         "price": "28999",
-        "Suggested": "ture",
+        "Suggested": "true",
         "Sponsor": "false",
         "Recommed": "false",
         "Top": "false"
@@ -441,7 +441,7 @@
         "Suggested": "false",
         "Sponsor": "false",
         "Recommed": "false",
-        "Top": "ture"
+        "Top": "true"
     },
     {
         "id": 38,
